@@ -1,0 +1,21 @@
+{
+  "name": "AXIOMFLOW",
+  "short_name": "AXIOMFLOW",
+  "description": "AI-Powered Business Automation & Revenue Growth Platform powered by NVIDIA AI.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#0f6bff",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"],
+  "prefer_related_applications": false
+}

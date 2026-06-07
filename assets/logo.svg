@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">AXIOMFLOW logo</title>
+  <desc id="desc">A blue geometric A mark for AXIOMFLOW.</desc>
+  <rect width="96" height="96" rx="20" fill="#0f6bff"/>
+  <path d="M22 72 42 18h14l20 54H61l-4-12H40l-4 12H22Zm26-48-10 31h19L48 24Z" fill="#fff"/>
+  <path d="M30 76h44" stroke="#9ed2ff" stroke-width="7" stroke-linecap="round"/>
+</svg>

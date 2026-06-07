@@ -1,0 +1,11 @@
+{
+  "name": "axiomflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AXIOMFLOW AI-powered business automation and revenue growth platform.",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm run check",
+    "check": "node --check server.js && node --check api/index.js && node --check js/theme.js && node --check js/auth.js && node --check js/ai.js && node --check js/dashboard.js && node --check js/app.js && node --check sw.js"
+  }
+}
